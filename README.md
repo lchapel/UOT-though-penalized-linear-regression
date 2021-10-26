@@ -29,7 +29,7 @@ The functions for running the algorithms can be found in the following files:
 
 ## Results
 
-Our results given in Figure 1, 2, 3 and 4 can be reproduced by running the following notebooks:
+Our results given in Figures 1 to 5 can be reproduced by running the following notebooks:
 
 - Figure 1 can be reproduced by running the notebook [Figure 1.ipynb](notebooks/Figure1.ipynb)
 
