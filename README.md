@@ -1,5 +1,14 @@
 # Unbalanced Optimal Transport through Non-negative Penalized Linear Regression
 Contains the code relative to the paper Unbalanced Optimal Transport through Non-negative Penalized Linear Regression https://arxiv.org/abs/2106.04145
+
+```
+@inproceedings{chapel2021unbalanced,
+  title={Unbalanced Optimal Transport through Non-negative Penalized Linear Regression},
+  author={Chapel, Laetitia and Flamary, R{\'e}mi and Wu, Haoran and F{\'e}votte, C{\'e}dric and Gasso, Gilles},
+  booktitle={Advances in Neural Information Processing Systems 34},
+  year={2021}
+}
+```
 ![L2 UOT](https://github.com/lchapel/UOT-though-penalized-linear-regression/blob/main/regpath_l2.jpg "L2 UOT")
 
 ## Requirements
