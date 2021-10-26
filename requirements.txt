@@ -1,0 +1,14 @@
+numpy
+scipy
+pot
+celer
+sklearn
+pylab-sdk
+matplotlib
+python-time
+pytest-warnings
+torch
+torchvision
+seaborn
+matplotlib-label-lines
+ipython
