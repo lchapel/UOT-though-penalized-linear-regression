@@ -31,11 +31,11 @@ The functions for running the algorithms can be found in the following files:
 
 Our results given in Figure 1, 2, 3 and 4 can be reproduced by running the following notebooks:
 
-- Figure 1 can be reproduced by running the notebook [Figure 1.ipynb](notebooks/Figure 1.ipynb)
+- Figure 1 can be reproduced by running the notebook [Figure 1.ipynb](notebooks/Figure1.ipynb)
 
 ![Figure 1](evol_pi.jpg "Figure 1") 
 
-- Figure 2 can be reproduced by running the notebook [Figure 2.ipynb](notebooks/Figure 2.ipynb)
+- Figure 2 can be reproduced by running the notebook [Figure 2.ipynb](notebooks/Figure2.ipynb)
 
 ![Figure 2](regpath_l2.jpg "Figure 2") 
 
@@ -43,6 +43,6 @@ Our results given in Figure 1, 2, 3 and 4 can be reproduced by running the follo
 
 ![Figure 2](simu.jpg "Figure 3") 
 
-- Figure 4 can be reproduced by running the notebook [Figure 4.ipynb](notebooks/Figure 4.ipynb)
+- Figure 4 can be reproduced by running the notebook [Figure 4.ipynb](notebooks/Figure4.ipynb)
 
 ![Figure 4](Classif_expe.jpg "Figure 4") 
