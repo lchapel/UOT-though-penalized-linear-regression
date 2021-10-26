@@ -46,3 +46,7 @@ Our results given in Figure 1, 2, 3 and 4 can be reproduced by running the follo
 - Figure 4 can be reproduced by running the notebook [Figure 4.ipynb](notebooks/Figure4.ipynb)
 
 ![Figure 4](Classif_expe.jpg "Figure 4") 
+
+- Figure 5 can be reproduced by running the notebook [Figure 5.ipynb](notebooks/Figure5.ipynb)
+
+![Figure 5](simu_cpu_gpu.jpg "Figure 5") 
