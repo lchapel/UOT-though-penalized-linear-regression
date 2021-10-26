@@ -11,6 +11,8 @@ pip install -r requirements.txt
 
 ## Running
 
+The regularization path algorithm is implemented in the [Python Optimal Transport (POT)](https://pythonot.github.io/) toolbox  and is the latest version up-to-date.
+
 The functions for running the algorithms can be found in the following files:
 - ``solvers\solver_kl_UOT.py`` contains the functions that allows solving the KL-penalized OUT, that is
 	- ``ot_ukl_solve_BFGS`` to run the BFGS algorithm 
@@ -23,7 +25,6 @@ The functions for running the algorithms can be found in the following files:
 	- ``ot_ul2_solve_mu`` to run our multiplicative algorithm 
 - ``solvers\solver_semirelax_L2_UOT.py`` contains the functions that allows solving the semi-relaxed L2-penalized OUT, that is
 	- ``ot_semi_relaxed_ul2_reg_path`` to solve our regularization path algorithm
-
 
 ## Results
 
